@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# House Price Predictor Model
+> An Australian company that buys houses at their actual values and flips them over to sell them at an higher price, has acquired data on houses in Australia. The purpose of this model was to deterine the price of a house based on a number of predictive variables.
 
 
 ## Table of Contents
@@ -11,38 +11,30 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This project uses a number of predictive variables to predict the value of a house. 
+- A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a   higher price. 
+-A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price.
+- Provided by UpGrad
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Ridge Regularization provides the best results among all the methods used in this project (Linear, Ridge and Lasso)
+- The five most important predictor variables are : Total square feet of basement area, Size of garage in square feet, the overall condition of the house, whether the house is located in North Ridge Neighbourhood, Masonry veneer area in square feet
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Pandas - version 2.1.1
+- Numpy - version 1.26
+- ScikitLearn - version 1.3.1
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project was done as a part of Upgrad's ACP_NLP course
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@chetanaghosh] - feel free to contact me!
 
 
 <!-- Optional -->
